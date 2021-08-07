@@ -2,8 +2,8 @@
 
 ## Milestones
 
-[Milestone 1](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/LoadingData.ipynb>).
-[Milestone 2](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/milestone2.ipynb>).
+- [Milestone 1](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/LoadingData.ipynb>).
+- [Milestone 2](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/milestone2.ipynb>).
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -16,7 +16,7 @@ This data was collected by The Meteoritical Society and further refined by NASA.
 
 ## Team Members
 
-Amreesa: I'm a third-year chemistry student with an interest in environmental chemistry 
+Amreesa: I'm curious to see if there's a trend, if any, within this aspect of the Earth's interaction with extraterrestrial objects. 
 
 
 ## References
