@@ -2,8 +2,10 @@
 
 ## Milestones
 
-- [Milestone 1](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/LoadingData.ipynb>).
-- [Milestone 2](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/milestone2.ipynb>).
+- [Milestone 1](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/LoadingData.ipynb>)
+- [Milestone 2](<https://github.com/data301-2021-summer2/project-group19-project/blob/main/analysis/person1/milestone2.ipynb>)
+- [Milestone 3](<https://github.com/data301-2021-summer2/project-group19-project/tree/main/data/processed>)
+- [Milestone 4](<https://github.com/data301-2021-summer2/project-group19-project/tree/main/presentation>)
 
 ## Describe your topic/interest in about 150-200 words
 
