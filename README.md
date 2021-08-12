@@ -9,7 +9,7 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-Space is a truly terrifying yet intriging aspect of science. One of the many interesting things about it is its interaction with the earth through meteorites. Over time, meteors have been proven useful in helping in the analysis of both our solar system and Earth's histories. Using this dataset, it is hoped to determined the regions of the earth that are most affected by meteorites landing on the surface of our planet. The main questions that will be explored are: is there any differences over time in the mass of meteorites that have fallen to Earth, and what is the most commonly found material in these fallen meteors?
+Space is a truly terrifying yet intriging aspect of science. One of the many interesting things about it is its interaction with the earth through meteorites. Over time, meteors have been proven useful in helping in the analysis of both our solar system and Earth's histories. Using this dataset, it is hoped to determined the regions of the earth that are most affected by meteorites landing on the surface of our planet. The main questions that will be explored are: what is the most commonly found material in these fallen meteors, is there any differences over time in the mass of meteorites that have fallen to Earth?
 
 ## Describe your dataset in about 150-200 words
 
