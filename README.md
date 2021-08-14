@@ -24,3 +24,6 @@ Amreesa: I'm curious to see if there's any trend within this aspect of the Earth
 ## References
 
 Link to original data: https://www.kaggle.com/nasa/meteorite-landings
+
+## Video
+[Dashboard Explainer Video](<https://vimeo.com/586137283/486756e2a6>)
